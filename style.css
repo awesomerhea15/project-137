@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+} 
+
+#start, #status_objects, #status{
+    font-size: 18px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color:whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color:darkslategray;
+    line-height: 3;
+    text-align: center;
+
+}
+
+canvas{
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 7px gainsboro;
+
+}
